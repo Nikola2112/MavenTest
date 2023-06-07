@@ -1,0 +1,11 @@
+/shelf/
+/workspace.xml
+*.class
+build
+out
+
+.idea/
+out/
+classes/
+build/
+target/
